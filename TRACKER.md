@@ -54,6 +54,14 @@ To mark a task done, change `[ ]` to `[x]`. Add a short note after the task if u
 
 ---
 
+## Roadmap (after the exam)
+
+Not in scope before Dec 31. Revisit in January.
+
+- [ ] **Phase 2: Marketing agent.** A subagent that drafts blurbs, taglines, newsletter copy and ad variations from chapter summaries, with an eval that compares versions.
+
+---
+
 ## Exam domains (CCAR-P)
 
 | Domain | Weight |
